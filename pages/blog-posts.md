@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Posts
-category: post
+category: page
 permalink: /posts
 ---
