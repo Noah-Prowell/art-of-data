@@ -4,8 +4,8 @@ title: About
 permalink: /about
 ---
 
-"Imagination is more important than knowledge."
-- Albert Einstein
+> "Imagination is more important than knowledge."
+> Albert Einstein
 
 I was drawn to the field of data science by the ability to use tools such as machine learning, AWS, and Python, as a tool to improve companies efficency, profitability, and agility. My attention is constantly being held by what might lie within the data. I enjoy looking for patterns and relationships that lie in the data I am exploring. It is what gets me up in the morning!
 
